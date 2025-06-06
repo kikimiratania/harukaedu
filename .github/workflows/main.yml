@@ -1,0 +1,12 @@
+            - name: Newman - Postman.
+  # You may pin to the exact commit or the version.
+  # uses: gasparhe/newman-action@c53a299d8db2ce028f6a8a2f0ccc86586deae6dc
+  uses: gasparhe/newman-action@1.0.0
+  with:
+    # Collection ID to use
+    collection: 
+    # Environment ID to use
+    environment: 
+    # Postman API key
+    apiKey: 
+          
